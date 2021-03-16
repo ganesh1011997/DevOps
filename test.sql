@@ -5,5 +5,5 @@ USE pucsdStudents;
 
 CREATE TABLE Students (name VARCHAR(20),Roll_no VARCHAR(20),address text,mobile_number BIGINT,pan_number varchar(20));
 
-INSERT INTO Students VALUES ('Omkar Shirke','18148','aundh road','781237318','asd123889');
+INSERT INTO Students VALUES ('Ashwin Shelke','18146','Nana Peth','8605387688','maggi123');
 
